@@ -1,2 +1,2 @@
 # springboard-BaltimoreParkingViolations
-First Capstone Project
+This repository contains the datafiles, code, and summary documents for my First Capstone Project with Springboard.
