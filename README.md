@@ -9,30 +9,30 @@ Executive Summary
 
 File names and descriptions
 ===========================
-1. Final Report: BaltimoreParkingCitations_Report.ipynb
-2. Slide deck:
-3. Data: Parking_Citations_20170925.csv,
-Parking_Citations_20171130.csv
+1. Final Report
+BaltimoreParkingCitations_Report.ipynb
+(additional files used in the report: citation_heatmap_small_20180521.html, all files ending in '.png')
 
-4. Code: 
+2. Slide deck
+
+3. Data
+- Parking_Citations_20170925.csv,
+- Parking_Citations_20171130.csv
+
+4. Code
 - BaltimoreParkingCitations_1_DataWrangling.ipynb, 
 - BaltimoreParkingCitations_2_DataExploration.ipynb,
 - BaltimoreParkingCitations_3_FeatureSelectionAndPreparation.ipynb,
 - BaltimoreParkingCitations_4_PredictionAndEvaluation.ipynb
 
-5. Figures used in the report:  
-- citation_heatmap_small_20180521.html,
-- all files ending in '.png'
-
-6. Persistence files: 
-- cleaned_baltimore_parking_data_20080521.csv
-- features_baltimore_parking_citations_20180522.csv
-- target_baltimore_parking_citations_20180522.csv
-- logreg_20180513.sav
-- lsvc_20180513.sav
-- svc21_20180517.sav
-- dtc_20180520.sav
-- rfc_20180520.sav
-- gnb_20180520.sav
+6. Persistence files
+- Shortcut to start from Code File 2 or Code File 3: cleaned_baltimore_parking_data_20080521.csv
+- Shortcut to start from Code File 4: features_baltimore_parking_citations_20180522.csv, target_baltimore_parking_citations_20180522.csv
+- Trained Logistic Regression Model: logreg_20180513.sav
+- Trained Linear SVC Model: lsvc_20180513.sav
+- Trained RBF-SVC Model: svc21_20180517.sav
+- Trained Decision Tree Model: dtc_20180520.sav
+- Trained Random Forest Model: rfc_20180520.sav
+- Trained Naive Bayes Model: gnb_20180520.sav
 
 
