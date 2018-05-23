@@ -9,23 +9,23 @@ Executive Summary
 
 File names and descriptions
 ===========================
-1. Final Report
-BaltimoreParkingCitations_Report.ipynb
-(additional files used in the report: citation_heatmap_small_20180521.html, all files ending in '.png')
+**Final Report**
+- BaltimoreParkingCitations_Report.ipynb
+- additional files used in the report: citation_heatmap_small_20180521.html, all files ending in '.png'
 
-2. Slide deck
+**Slide deck **
 
-3. Data
+**Data**
 - Parking_Citations_20170925.csv,
 - Parking_Citations_20171130.csv
 
-4. Code
+**Code**
 - BaltimoreParkingCitations_1_DataWrangling.ipynb, 
 - BaltimoreParkingCitations_2_DataExploration.ipynb,
 - BaltimoreParkingCitations_3_FeatureSelectionAndPreparation.ipynb,
 - BaltimoreParkingCitations_4_PredictionAndEvaluation.ipynb
 
-6. Persistence files
+**Persistence files**
 - Shortcut to start from Code File 2 or Code File 3: cleaned_baltimore_parking_data_20080521.csv
 - Shortcut to start from Code File 4: features_baltimore_parking_citations_20180522.csv, target_baltimore_parking_citations_20180522.csv
 - Trained Logistic Regression Model: logreg_20180513.sav
